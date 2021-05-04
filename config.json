@@ -1,17 +1,17 @@
 {
   "MAX_PLAYLIST_SIZE": 500,
-  "PREFIX": "/",
+  "PREFIX": "o",
   "musicChannelOne": 696751701553709068,
   "musicChannelTwo": 769761743965782055,
   "musicChannelErrorResponse": "⛔ Music commands are only available in **add-music** channel",
   "nsfwPrefix": "/nsfw",
-  "serverManager": "463028312567054338",
-  "serverOwner": "451725062534332417",
+  "serverManager": "830428960759480340",
+  "serverOwner": "830428960759480340",
   "guildId": "463027132243771403",
   "welcomeChannel": "👋welcome",
   "goodbyeChannel": "💀goodbye",
   "auditLogChannel": "🔑audit-log",
-  "memesChannel": "719922837871263745",
-  "memberCountChannelId": "775215451110244373",
+  "memesChannel": "838535157698658314",
+  "memberCountChannelId": "838736363260084234",
   "STAY_TIME": 300
 }
